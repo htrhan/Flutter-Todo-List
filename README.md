@@ -3,4 +3,4 @@
 A new Flutter project.
 
 ## Screenshots 
-![Screenshots](./screenshot/ss1.jpeg =100x20)
+![Screenshots](./screenshot/ss1.jpeg = 100x20)
