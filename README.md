@@ -2,4 +2,6 @@
 
 A new Flutter project.
 
-![Screen images] (./screenshot/ss1.jpeg)
+## Screenshots 
+![Screenshots ](./screenshot/ss1.jpeg)
+![Screenshots ](./screenshot/ss2.jpeg)
