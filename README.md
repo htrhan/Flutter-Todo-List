@@ -3,5 +3,5 @@
 A new Flutter project.
 
 ## Screenshots 
-![Screenshots ](./screenshot/ss1.jpeg)
-![Screenshots ](./screenshot/ss2.jpeg)
+![Screenshots ](./screenshot/ss1.jpeg | width=100)
+![Screenshots ](./screenshot/ss2.jpeg )
